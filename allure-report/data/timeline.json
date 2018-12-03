@@ -1,0 +1,25 @@
+{
+  "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+  "name" : "timeline",
+  "children" : [ {
+    "name" : "5CD6474QH2",
+    "children" : [ {
+      "name" : "6368@5CD6474QH2.main(1)",
+      "children" : [ {
+        "name" : "testingActionTest",
+        "uid" : "5cea3a29971d54df",
+        "parentUid" : "f93c999b471719ad39bee82772232d90",
+        "status" : "failed",
+        "time" : {
+          "start" : 1542802522259,
+          "stop" : 1542802527181,
+          "duration" : 4922
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "f93c999b471719ad39bee82772232d90"
+    } ],
+    "uid" : "a58c493e39721f668c70ca0ceb43582e"
+  } ]
+}

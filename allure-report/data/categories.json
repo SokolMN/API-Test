@@ -1,0 +1,25 @@
+{
+  "uid" : "4b4757e66a1912dae1a509f688f20b0f",
+  "name" : "categories",
+  "children" : [ {
+    "name" : "Product defects",
+    "children" : [ {
+      "name" : "AssertionError: expected [5] but found [3]",
+      "children" : [ {
+        "name" : "testingActionTest",
+        "uid" : "5cea3a29971d54df",
+        "parentUid" : "d5768e79657a0f2f303893ee5e3cf103",
+        "status" : "failed",
+        "time" : {
+          "start" : 1542802522259,
+          "stop" : 1542802527181,
+          "duration" : 4922
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "d5768e79657a0f2f303893ee5e3cf103"
+    } ],
+    "uid" : "8fb3a91ba5aaf9de24cc8a92edc82b5d"
+  } ]
+}

@@ -1,0 +1,21 @@
+{
+  "uid" : "83edc06c07f9ae9e47eb6dd1b683e4e2",
+  "name" : "packages",
+  "children" : [ {
+    "name" : "TestSuite : AutoQA",
+    "children" : [ {
+      "name" : "testingActionTest",
+      "uid" : "5cea3a29971d54df",
+      "parentUid" : "fa1344c15691a1e828d6ee7573cdd004",
+      "status" : "failed",
+      "time" : {
+        "start" : 1542802522259,
+        "stop" : 1542802527181,
+        "duration" : 4922
+      },
+      "flaky" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "fa1344c15691a1e828d6ee7573cdd004"
+  } ]
+}
